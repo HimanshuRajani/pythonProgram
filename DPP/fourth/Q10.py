@@ -1,2 +1,2 @@
-def monthly_payment(principal,rate,years):
+# def monthly_payment(principal,rate,years):
     
