@@ -73,3 +73,10 @@
 #     def add(a, b):
 #         return a + b 
 # print(MathUtils.add(5, 10)) # Should print 15
+
+class mine:
+	Var = 10
+    
+def display():
+        print(mine.Var)
+
